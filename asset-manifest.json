@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/playmyjam/static/css/main.83ce376b.chunk.css",
-    "main.js": "/playmyjam/static/js/main.2b0ab021.chunk.js",
-    "main.js.map": "/playmyjam/static/js/main.2b0ab021.chunk.js.map",
+    "main.js": "/playmyjam/static/js/main.b013e7f6.chunk.js",
+    "main.js.map": "/playmyjam/static/js/main.b013e7f6.chunk.js.map",
     "runtime-main.js": "/playmyjam/static/js/runtime-main.3d22f9ee.js",
     "runtime-main.js.map": "/playmyjam/static/js/runtime-main.3d22f9ee.js.map",
     "static/js/2.24f53574.chunk.js": "/playmyjam/static/js/2.24f53574.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3d22f9ee.js",
     "static/js/2.24f53574.chunk.js",
     "static/css/main.83ce376b.chunk.css",
-    "static/js/main.2b0ab021.chunk.js"
+    "static/js/main.b013e7f6.chunk.js"
   ]
 }
